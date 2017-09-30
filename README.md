@@ -1,7 +1,7 @@
 Airport Challenge in JavaScript
 ===============================
 Translate Airport challenge from Ruby into JavaScript
-Makers Academy - Week 5
+(Makers Academy - Week 5)
 
 Objectives of exercise
 ----
