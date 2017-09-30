@@ -1,11 +1,9 @@
 Airport Challenge in JavaScript
 ===============================
 Translate Airport challenge from Ruby into JavaScript
-(Makers Academy - Week 5)
 
 Objectives of exercise
 ----
-- Get comfortable with JavaScript
 - Understand and use Jasmine spies
 
 Technologies used
