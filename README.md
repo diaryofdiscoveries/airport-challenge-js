@@ -1,10 +1,11 @@
 Airport Challenge in JavaScript
 ===============================
 Translate Airport challenge from Ruby into JavaScript
+Makers Academy - Week 5
 
 Objectives of exercise
 ----
-- Getting comfortable with JavaScript syntax
+- Get comfortable with JavaScript
 - Understand and use Jasmine spies
 
 Technologies used
@@ -18,8 +19,8 @@ Tested using:
 How to run tests
 ----
 ```sh
-cd airport-challenge-js
-open SpecRunner.html
+$ cd airport-challenge-js
+$ open SpecRunner.html
 ```
 - Refresh browser to run tests
 
